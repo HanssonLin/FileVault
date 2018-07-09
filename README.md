@@ -19,5 +19,5 @@ UserInput: John
 
 Contributers: 
 Hansson: https://github.com/HanssonLin23
-Jinwei: https://github.com/Jinwei18
+Jinwei: https://github.com/JinweiZhang18
 Owen: https://github.com/OwenBrosseau
