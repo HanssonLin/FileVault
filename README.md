@@ -11,7 +11,7 @@ Account: Jinwei\
 FileDisplay: Hansson, Owen\
 FileScanner: Hansson\
 FileVaultFrame: Hansson, Owen\
-RFIDFrame: Jinwei, Hansson\
+RFIDFrame: Hansson, Jinwei\
 TextFile: Hansson
 
 Contributers:
