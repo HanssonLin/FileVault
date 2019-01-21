@@ -7,15 +7,12 @@ into the simulator and create a new account, which will be saved when you exit t
 A special thanks to John Janetka (http://atomictoddler.com/) for helping us get started
 
 Credits to Classes: 
-Account: Jinwei
-FileDisplay: Hansson, Owen
-FileScanner: Hansson
-FileVaultFrame: Hansson, Owen
-RFIDable: John
-RFIDFrame: Jinwei
-SimulateCardReadFrame: John
-TextFile: Hansson
-UserInput: John
+Account: Jinwei \n
+FileDisplay: Hansson, Owen \n
+FileScanner: Hansson \n
+FileVaultFrame: Hansson, Owen \n
+RFIDFrame: Jinwei \n
+TextFile: Hansson \n
 
 Contributers: 
 Hansson: https://github.com/HanssonLin23
