@@ -6,14 +6,6 @@ into the simulator and create a new account, which will be saved when you exit t
 
 A special thanks to John Janetka (http://atomictoddler.com/) for helping us get started
 
-Credits to Classes:\
-Account: Jinwei\
-FileDisplay: Hansson, Owen\
-FileScanner: Hansson\
-FileVaultFrame: Hansson, Owen\
-RFIDFrame: Hansson, Jinwei\
-TextFile: Hansson
-
 Contributers:
 Hansson: https://github.com/HanssonLin23
 Jinwei: https://github.com/JinweiZhang18
